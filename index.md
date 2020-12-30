@@ -1,6 +1,4 @@
-## Test
-
-You can use the [editor on GitHub](https://github.com/hassan-abdallah/hassan-abdallah.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an M.S. student in Biostatistics at the University of Michigan, Ann Arbor as well as a Senior Systems Software Engineer in High-Performance Computing at Wayne State University. Previously, I completed a B.S. in Mathematics and an M.A. in Applied Mathematics under the direction of [Andrew Salch](https://s.wayne.edu/asalch/) at Wayne State University. Broadly, I am interested in developing mathematical and statistical tools to better understand complex biological problems arising from areas such as genetics and neuroscience.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
